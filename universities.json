@@ -1,0 +1,48 @@
+[
+  {
+    "id": "seu",
+    "name": "东南大学",
+    "department": "医学院",
+    "year": "2027",
+    "source": "https://gsas.seu.edu.cn/ssmlcx2027/pages/index.html",
+    "programs": [
+      {
+        "code": "100207",
+        "name": "影像医学与核医学",
+        "degree": "学硕",
+        "mode": "全日制",
+        "directions": [],
+        "retest": "5e3 医学影像学",
+        "book": "《医学影像诊断学》（第四版）白人驹主审，韩萍、于春水主编，人民卫生出版社"
+      },
+      {
+        "code": "105100",
+        "name": "临床医学",
+        "degree": "专硕",
+        "mode": "全日制",
+        "directions": [
+          {
+            "code": "08",
+            "name": "放射肿瘤学临床技能训练与研究"
+          },
+          {
+            "code": "17",
+            "name": "放射影像学临床技能训练与研究"
+          },
+          {
+            "code": "18",
+            "name": "核医学临床技能训练与研究"
+          },
+          {
+            "code": "19",
+            "name": "超声医学临床技能训练与研究"
+          }
+        ],
+        "retest": "5a9 诊断学",
+        "book": "《诊断学》（第九版）万学红、卢雪峰主编，人民卫生出版社"
+      }
+    ],
+    "brochures": [],
+    "scores": []
+  }
+]
