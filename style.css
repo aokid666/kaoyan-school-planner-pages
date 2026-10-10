@@ -15,3 +15,5 @@ footer{font-size:12px}.document{font-size:15px}.document h3{font-weight:700}
 th:first-child,td:first-child{min-width:72px;white-space:nowrap}
 @media(max-width:850px){.program-title h3{font-size:18px}}
 @media(max-width:650px){body{font-size:15px}header,.subtle,.intro p,.content-toolbar p,.code,.mode,.department-head p{font-size:13px}.sidebar-label,.sidebar-foot{font-size:13px}.tabs button{font-size:15px}.view-switch button{font-size:13px}.program-title h3{font-size:17px}.degree{font-size:12px}.info-grid,.directions li,table,.books,.notice,.introduction{font-size:15px}.department-head h3{font-size:20px}th{font-size:13px}th,td{padding:12px 14px}footer{font-size:12px}}
+
+main{padding-top:32px;padding-bottom:32px}aside{padding-top:32px}@media(max-width:650px){main{padding-top:16px;padding-bottom:16px}aside{display:block;padding:15px}#schools{gap:8px}}
