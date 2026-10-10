@@ -17,3 +17,5 @@ th:first-child,td:first-child{min-width:72px;white-space:nowrap}
 @media(max-width:650px){body{font-size:15px}header,.subtle,.intro p,.content-toolbar p,.code,.mode,.department-head p{font-size:13px}.sidebar-label,.sidebar-foot{font-size:13px}.tabs button{font-size:15px}.view-switch button{font-size:13px}.program-title h3{font-size:17px}.degree{font-size:12px}.info-grid,.directions li,table,.books,.notice,.introduction{font-size:15px}.department-head h3{font-size:20px}th{font-size:13px}th,td{padding:12px 14px}footer{font-size:12px}}
 
 main{padding-top:32px;padding-bottom:32px}aside{padding-top:32px}@media(max-width:650px){main{padding-top:16px;padding-bottom:16px}aside{display:block;padding:15px}#schools{gap:8px}}
+
+.department-head{margin-bottom:18px}.source-file{overflow-wrap:anywhere}.teachers{min-width:180px;max-width:310px}.brochure summary{cursor:pointer;font-size:18px;font-weight:700;line-height:1.7}.brochure[open] summary{margin-bottom:22px}.brochure .full-text{font-size:15px;line-height:2}@media(max-width:650px){.brochure summary{font-size:16px}.teachers{min-width:160px}}
