@@ -848,5 +848,397 @@
     ],
     "brochures": [],
     "scores": []
+  },
+  {
+    "id": "pku",
+    "name": "北京大学",
+    "department": "医学部",
+    "year": "2027",
+    "directoryNotes": "来源为你提供的另一聊天中的《北大2027.pdf》整理记录，本次未读取原PDF。页码沿用该记录。\n招生计划数包含拟接收推免数；计划差额＝总计划－拟推免，是计算值，不是最终统考名额。\n记录包含19个主要影像相关方向及1个口腔颌面医学影像补充方向；实际培养单位按各单位分别展示。记录未提供导师、具体研究课题、复试科目及报考资格条件。",
+    "departments": [
+      {
+        "code": "910",
+        "name": "第一临床医学院（第一医院）",
+        "sourceTitle": "用户提供的《北大2027.pdf》整理记录（未核对原PDF）",
+        "programs": [
+          {
+            "code": "105100",
+            "name": "临床医学",
+            "degree": "专硕",
+            "directions": [
+              {
+                "code": "65",
+                "name": "105123 放射影像学",
+                "planned": 2,
+                "recommended": 1,
+                "difference": 1,
+                "sourcePage": 9,
+                "exams": "思想政治理论＋英语（一）＋306 临床医学综合能力（西医）"
+              },
+              {
+                "code": "71",
+                "name": "105124 超声医学",
+                "planned": 1,
+                "recommended": 1,
+                "difference": 0,
+                "sourcePage": 9,
+                "exams": "原文件科目栏为空（据所提供整理记录）"
+              },
+              {
+                "code": "75",
+                "name": "105125 核医学",
+                "planned": 1,
+                "recommended": 0,
+                "difference": 1,
+                "sourcePage": 9,
+                "exams": "思想政治理论＋英语（一）＋306 临床医学综合能力（西医）"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "920",
+        "name": "第二临床医学院（人民医院）",
+        "sourceTitle": "用户提供的《北大2027.pdf》整理记录（未核对原PDF）",
+        "programs": [
+          {
+            "code": "105100",
+            "name": "临床医学",
+            "degree": "专硕",
+            "directions": [
+              {
+                "code": "66",
+                "name": "105123 放射影像学",
+                "planned": 1,
+                "recommended": 1,
+                "difference": 0,
+                "sourcePage": 9,
+                "exams": "原文件科目栏为空（据所提供整理记录）"
+              },
+              {
+                "code": "72",
+                "name": "105124 超声医学",
+                "planned": 1,
+                "recommended": 0,
+                "difference": 1,
+                "sourcePage": 9,
+                "exams": "思想政治理论＋英语（一）＋306 临床医学综合能力（西医）"
+              },
+              {
+                "code": "76",
+                "name": "105125 核医学",
+                "planned": 1,
+                "recommended": 0,
+                "difference": 1,
+                "sourcePage": 10,
+                "exams": "思想政治理论＋英语（一）＋306 临床医学综合能力（西医）"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "930",
+        "name": "第三临床医学院（第三医院）",
+        "sourceTitle": "用户提供的《北大2027.pdf》整理记录（未核对原PDF）",
+        "programs": [
+          {
+            "code": "105100",
+            "name": "临床医学",
+            "degree": "专硕",
+            "directions": [
+              {
+                "code": "67",
+                "name": "105123 放射影像学",
+                "planned": 1,
+                "recommended": 0,
+                "difference": 1,
+                "sourcePage": 9,
+                "exams": "思想政治理论＋英语（一）＋306 临床医学综合能力（西医）"
+              },
+              {
+                "code": "73",
+                "name": "105124 超声医学",
+                "planned": 1,
+                "recommended": 0,
+                "difference": 1,
+                "sourcePage": 9,
+                "exams": "思想政治理论＋英语（一）＋306 临床医学综合能力（西医）"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "960",
+        "name": "临床肿瘤学院（肿瘤医院）",
+        "sourceTitle": "用户提供的《北大2027.pdf》整理记录（未核对原PDF）",
+        "programs": [
+          {
+            "code": "100200",
+            "name": "临床医学",
+            "degree": "学硕",
+            "directions": [
+              {
+                "code": "28",
+                "name": "100207 影像医学与核医学",
+                "planned": 3,
+                "recommended": 1,
+                "difference": 2,
+                "sourcePage": 3,
+                "exams": "思想政治理论＋英语（一）＋306 临床医学综合能力（西医）"
+              }
+            ]
+          },
+          {
+            "code": "105100",
+            "name": "临床医学",
+            "degree": "专硕",
+            "directions": [
+              {
+                "code": "68",
+                "name": "105123 放射影像学",
+                "planned": 4,
+                "recommended": 2,
+                "difference": 2,
+                "sourcePage": 9,
+                "exams": "思想政治理论＋英语（一）＋306 临床医学综合能力（西医）"
+              },
+              {
+                "code": "74",
+                "name": "105124 超声医学",
+                "planned": 1,
+                "recommended": 1,
+                "difference": 0,
+                "sourcePage": 9,
+                "exams": "原文件科目栏为空（据所提供整理记录）"
+              },
+              {
+                "code": "77",
+                "name": "105125 核医学",
+                "planned": 1,
+                "recommended": 0,
+                "difference": 1,
+                "sourcePage": 10,
+                "exams": "思想政治理论＋英语（一）＋306 临床医学综合能力（西医）"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "971",
+        "name": "第五临床医学院（北京医院）",
+        "sourceTitle": "用户提供的《北大2027.pdf》整理记录（未核对原PDF）",
+        "programs": [
+          {
+            "code": "105100",
+            "name": "临床医学",
+            "degree": "专硕",
+            "directions": [
+              {
+                "code": "69",
+                "name": "105123 放射影像学",
+                "planned": 1,
+                "recommended": 0,
+                "difference": 1,
+                "sourcePage": 9,
+                "exams": "思想政治理论＋英语（一）＋306 临床医学综合能力（西医）"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "972",
+        "name": "中日友好临床医学院（中日友好医院）",
+        "sourceTitle": "用户提供的《北大2027.pdf》整理记录（未核对原PDF）",
+        "programs": [
+          {
+            "code": "105100",
+            "name": "临床医学",
+            "degree": "专硕",
+            "directions": [
+              {
+                "code": "70",
+                "name": "105123 放射影像学",
+                "planned": 1,
+                "recommended": 0,
+                "difference": 1,
+                "sourcePage": 9,
+                "exams": "思想政治理论＋英语（一）＋306 临床医学综合能力（西医）"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "974",
+        "name": "航天临床医学院（北京航天中心医院）",
+        "sourceTitle": "用户提供的《北大2027.pdf》整理记录（未核对原PDF）",
+        "programs": [
+          {
+            "code": "100200",
+            "name": "临床医学",
+            "degree": "学硕",
+            "directions": [
+              {
+                "code": "35",
+                "name": "100207 影像医学与核医学",
+                "planned": 2,
+                "recommended": 0,
+                "difference": 2,
+                "sourcePage": 3,
+                "exams": "思想政治理论＋英语（一）＋306 临床医学综合能力（西医）"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "987",
+        "name": "深圳研究生院（北京大学深圳医院）",
+        "sourceTitle": "用户提供的《北大2027.pdf》整理记录（未核对原PDF）",
+        "programs": [
+          {
+            "code": "100200",
+            "name": "临床医学",
+            "degree": "学硕",
+            "directions": [
+              {
+                "code": "44",
+                "name": "100207 影像医学与核医学",
+                "planned": 1,
+                "recommended": 0,
+                "difference": 1,
+                "sourcePage": 4,
+                "exams": "思想政治理论＋英语（一）＋306 临床医学综合能力（西医）"
+              }
+            ]
+          },
+          {
+            "code": "105100",
+            "name": "临床医学",
+            "degree": "专硕",
+            "directions": [
+              {
+                "code": "83",
+                "name": "105124 超声医学",
+                "planned": 2,
+                "recommended": 0,
+                "difference": 2,
+                "sourcePage": 10,
+                "exams": "思想政治理论＋英语（一）＋306 临床医学综合能力（西医）"
+              },
+              {
+                "code": "84",
+                "name": "105125 核医学",
+                "planned": 1,
+                "recommended": 0,
+                "difference": 1,
+                "sourcePage": 10,
+                "exams": "思想政治理论＋英语（一）＋306 临床医学综合能力（西医）"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "985",
+        "name": "医学技术研究院",
+        "sourceTitle": "用户提供的《北大2027.pdf》整理记录（未核对原PDF）",
+        "programs": [
+          {
+            "code": "105800",
+            "name": "医学技术",
+            "degree": "专硕",
+            "directions": [
+              {
+                "code": "01",
+                "name": "医学影像技术",
+                "planned": 6,
+                "recommended": 4,
+                "difference": 2,
+                "sourcePage": 12,
+                "exams": "思想政治理论＋英语（一）＋306 临床医学综合能力（西医）"
+              }
+            ],
+            "notes": "医学影像技术属于医学技术专业学位，培养路径及报考资格须单独核对。"
+          }
+        ]
+      },
+      {
+        "code": "940",
+        "name": "口腔医学院",
+        "sourceTitle": "用户提供的《北大2027.pdf》整理记录（未核对原PDF）",
+        "programs": [
+          {
+            "code": "105200",
+            "name": "口腔医学",
+            "degree": "专硕",
+            "directions": [
+              {
+                "code": "07",
+                "name": "口腔颌面医学影像",
+                "planned": 2,
+                "recommended": 0,
+                "difference": 2,
+                "sourcePage": 10,
+                "exams": "思想政治理论＋英语（一）＋352 口腔综合"
+              }
+            ],
+            "notes": "补充方向：口腔颌面医学影像属于口腔医学专业学位，培养路径及报考资格须单独核对。"
+          }
+        ]
+      }
+    ],
+    "brochures": [],
+    "scores": []
+  },
+  {
+    "id": "sysu",
+    "name": "中山大学",
+    "year": "2027",
+    "department": "孙逸仙纪念医院",
+    "source": "https://mmbiz.qpic.cn/mmbiz_jpg/NTmV6sgm3ruw0T7ZJnkbQRVmrIA3BicVqGPwOEkt4Uagr54nkp41qE2yIiatcywBAvmp7snSujlicibcxZe4JukhZrubK6C2jGoGy439wHMHpPM/640?wx_fmt=jpeg&from=appmsg&wxfrom=13&tp=wxpic",
+    "sourceLabel": "查看所提供的招生计划图片",
+    "departments": [],
+    "directoryPlans": [
+      {
+        "title": "孙逸仙纪念医院 · 2027年硕士研究生公开招考招生计划数测算",
+        "date": "2026.10.10",
+        "sourceTitle": "用户提供的图片；大学及医院名称由用户确认",
+        "notes": "统考招生计划数为暂时的计划数，不排除在实际招生时科室计划有所增加或减少，最终以实际录取为准。\n以下计划数不含已招推免生，不含少数民族骨干计划。\n图片说明：部分专业（研究方向）的计划数为0表示无招生计划或已招满推免生，请避免报考。\n表内43—46为图片行序号；图片未提供招生专业代码、报名方向码、导师及考试科目。",
+        "rows": [
+          {
+            "row": 43,
+            "name": "影像医学（超声）",
+            "academic": 0,
+            "professional": 2
+          },
+          {
+            "row": 44,
+            "name": "影像医学（放射）—放射科",
+            "academic": 0,
+            "professional": 0
+          },
+          {
+            "row": 45,
+            "name": "影像医学（放射）—介入科",
+            "academic": 0,
+            "professional": 1
+          },
+          {
+            "row": 46,
+            "name": "核医学科",
+            "academic": 0,
+            "professional": 0
+          }
+        ]
+      }
+    ],
+    "brochures": [],
+    "scores": []
   }
 ]
